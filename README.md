@@ -1,18 +1,109 @@
-# 💫 About Me:
-# Hi 👋, I'm Hitesh C V<br><br>## 👨‍💻 About Me<br><br>I'm a passionate developer interested in learning new technologies and building useful projects.<br><br>- 🌱 Currently learning **Java, Git & GitHub**<br>- 💻 Practicing **Java programming and problem solving**<br>- 🚀 Interested in **Software Development**<br>- 📚 Always learning and improving my coding skills<br><br>## 🔨 Currently Working On<br><br>- Java programming projects<br>- Improving Data Structures and Algorithms<br>- Learning Git and GitHub<br>- Building small projects to improve my development skills<br><br>### Languages<br>- ☕ Java<br>- 🌐 HTML<br>- 🎨 CSS<br>- 🐍 Python<br>- <br>## 📫 How to Reach Me<br>- 📧 Email: hiteshcv507@gmail.com<br>- 💼 LinkedIn: www.linkedin.com/in/hitesh-cv-ab48b4335<br><br>⭐ Thanks for visiting my profile!<br>
+# 👋 Hi, I'm Hitesh C V
 
+### 💻 Aspiring Software Developer | Java | Python | Web Development
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/hiteshshetty17/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/hitesh-cv-ab48b4335) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@HITESH CV) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hiteshcv507@gmail.com) 
+I'm a developer who enjoys building projects, solving problems, and learning new technologies.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=hiteshcv17&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=hiteshcv17&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=hiteshcv17&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+Currently focused on **Java, Data Structures & Algorithms, Python, and Web Development**.
 
 ---
-[![](https://komarev.com/ghpvc/?username=hiteshcv17&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->****
+## 🚀 About Me
+
+- 🔭 Currently working on **software development projects**
+- 🌱 Learning **Java, Data Structures & Algorithms**
+- 💻 Interested in **Software Development & Web Development**
+- 🐍 Working with **Python and Java**
+- 🎯 Goal: Become a strong **Software Developer**
+- 📚 Always learning and building new projects
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+### Web Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🌟 Featured Projects
+
+### 🌾 KRISHI-SAHAY
+
+A project focused on providing useful solutions for agriculture and farmers.
+
+🔗 [View Project](https://github.com/hiteshcv17/KRISHI-SAHAY)
+
+---
+
+### 🤖 URBAN-PULSE-AI
+
+An AI-focused project exploring intelligent solutions for urban environments.
+
+🔗 [View Project](https://github.com/hiteshcv17/URBAN-PULSE-AI)
+
+---
+
+### 🛡️ CHRONO-SHIELD
+
+A Python-based project focused on solving a real-world problem through software.
+
+🔗 [View Project](https://github.com/hiteshcv17/CHRONO-SHIELD)
+
+---
+
+### 🔊 DECIBAL-DRIFT
+
+A Python project exploring audio-related functionality and software development.
+
+🔗 [View Project](https://github.com/hiteshcv17/DECIBAL-DRIFT)
+
+---
+
+## 📊 GitHub Stats
+
+![Hitesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hiteshcv17&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshcv17&layout=compact&theme=tokyonight)
+
+---
+
+## 📈 My Goals
+
+- 🧠 Master Data Structures & Algorithms
+- ☕ Become strong in Java
+- 🌐 Build real-world web applications
+- 🚀 Build more meaningful projects
+- 🤝 Contribute to open-source projects
+- 💼 Prepare for software development opportunities
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** hiteshcv507@gmail.com
+
+💼 **LinkedIn:** [Hitesh C V](https://www.linkedin.com/in/hitesh-cv-ab48b4335/)
+
+🐙 **GitHub:** [hiteshcv17](https://github.com/hiteshcv17)
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, feel free to ⭐ my repositories and connect with me.
