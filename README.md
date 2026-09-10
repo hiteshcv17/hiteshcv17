@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi 👋, I'm Hitesh C V
 
-<!--
-**hiteshcv17/hiteshcv17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+I'm a passionate developer interested in learning new technologies and building useful projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning **Java, Git & GitHub**
+- 💻 Practicing **Java programming and problem solving**
+- 🚀 Interested in **Software Development**
+- 📚 Always learning and improving my coding skills
+
+## 🔨 Currently Working On
+
+- Java programming projects
+- Improving Data Structures and Algorithms
+- Learning Git and GitHub
+- Building small projects to improve my development skills
+
+## 🛠️ Tools & Technologies
+
+### Languages
+- ☕ Java
+- 🌐 HTML
+- 🎨 CSS
+- 🐍 Python
+
+### Tools
+- 💻 Visual Studio Code
+- 🧑‍💻 Git
+- 🐙 GitHub
+- 🗄️ MySQL
+
+## 📫 How to Reach Me
+
+- 📧 Email: your-email@example.com
+- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/)
+- 🐙 GitHub: [Your GitHub](https://github.com/)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+## 🚀 Goals
+
+- Become a better software developer
+- Build real-world projects
+- Contribute to open-source projects
+- Learn new technologies
+- Get industry-ready
+
+---
+
+⭐ Thanks for visiting my profile!
