@@ -4,7 +4,7 @@
 
 I'm a developer who enjoys building projects, solving problems, and learning new technologies.
 
-Currently focused on **Java, Data Structures & Algorithms, Python, and Web Development**.
+Currently focused on **Java, Data Structures & Algorithms, Web Development**.
 
 ---
 
