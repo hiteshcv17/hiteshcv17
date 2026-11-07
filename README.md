@@ -2,22 +2,10 @@
 
 ### 💻 Aspiring Software Developer | Java | Python | Web Development
 
-I'm a developer who enjoys building projects, solving problems, and learning new technologies.
+I'm a student who enjoys building projects, solving problems, and learning new technologies.
 
-Currently focused on **Java, Data Structures & Algorithms, Web Development**.
+Currently focused on **data analytics**.
 
----
-
-## 🚀 About Me
-
-- 🔭 Currently working on **software development projects**
-- 🌱 Learning **Java, Data Structures & Algorithms**
-- 💻 Interested in **Software Development & Web Development**
-- 🐍 Working with **Python and Java**
-- 🎯 Goal: Become a strong **Software Developer**
-- 📚 Always learning and building new projects
-
----
 
 ## 🛠️ Tech Stack
 
